@@ -1,0 +1,35 @@
+{
+  "seoTitle": "Contact — Zodaweb",
+  "seoDescription": "Request a quote from Zodaweb. Reach us by form, email, or WhatsApp for a quick estimate.",
+  "banner": {
+    "eyebrow": "Contact",
+    "title": "Let’s Build Something Great Together",
+    "lead": "Fill out the form below or reach out via WhatsApp for a quick estimate."
+  },
+  "directTitle": "Direct contact",
+  "form": {
+    "submitLabel": "Send Message & Get Quote"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Common questions",
+    "items": [
+      {
+        "question": "How long does a web design project take?",
+        "answer": "Most marketing sites ship in 3–6 weeks depending on pages, content readiness, and feedback cycles. Custom apps are scoped after discovery."
+      },
+      {
+        "question": "Do you provide post-launch support?",
+        "answer": "Yes. We offer retainers for updates, monitoring, SEO, and 24/7 incident support so the product stays healthy after launch."
+      },
+      {
+        "question": "What are your payment terms?",
+        "answer": "Typical projects are billed in milestones: kickoff, design approval, and launch. We can discuss a schedule that matches your finance process."
+      },
+      {
+        "question": "Can you work with our existing brand and stack?",
+        "answer": "Absolutely. We inherit design systems and codebases when it makes sense, or recommend a cleaner path if the current stack is holding you back."
+      }
+    ]
+  }
+}

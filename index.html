@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zodaweb — Next-Gen Web Design & Software</title>
+  <meta name="description" content="Zodaweb builds high-performance websites, custom web applications, and scalable digital experiences designed to drive business growth." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body data-page="home">
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow" aria-hidden="true"></div>
+  <div id="site-header"></div>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="container hero-grid">
+        <div class="hero-copy" data-home-hero></div>
+
+        <div class="hero-visual" aria-hidden="true">
+          <div class="orb orb-1"></div>
+          <div class="orb orb-2"></div>
+          <svg class="network" viewBox="0 0 480 480">
+            <defs>
+              <linearGradient id="netStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop stop-color="#00F2FE" stop-opacity="0.9"/>
+                <stop offset="1" stop-color="#8A2BE2" stop-opacity="0.9"/>
+              </linearGradient>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="2.4" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+            <g class="net-lines" stroke="url(#netStroke)" stroke-width="1.2" fill="none" filter="url(#glow)">
+              <line x1="240" y1="70" x2="120" y2="150"/>
+              <line x1="240" y1="70" x2="360" y2="150"/>
+              <line x1="120" y1="150" x2="80" y2="280"/>
+              <line x1="120" y1="150" x2="200" y2="250"/>
+              <line x1="360" y1="150" x2="400" y2="280"/>
+              <line x1="360" y1="150" x2="280" y2="250"/>
+              <line x1="200" y1="250" x2="240" y2="70"/>
+              <line x1="280" y1="250" x2="240" y2="70"/>
+              <line x1="80" y1="280" x2="200" y2="250"/>
+              <line x1="400" y1="280" x2="280" y2="250"/>
+              <line x1="200" y1="250" x2="240" y2="380"/>
+              <line x1="280" y1="250" x2="240" y2="380"/>
+              <line x1="80" y1="280" x2="170" y2="390"/>
+              <line x1="400" y1="280" x2="310" y2="390"/>
+              <line x1="170" y1="390" x2="240" y2="380"/>
+              <line x1="310" y1="390" x2="240" y2="380"/>
+            </g>
+            <g class="net-nodes" fill="#0B0F17" stroke="url(#netStroke)" stroke-width="2" filter="url(#glow)">
+              <circle class="pulse" cx="240" cy="70" r="10"/>
+              <circle cx="120" cy="150" r="8"/>
+              <circle cx="360" cy="150" r="8"/>
+              <circle cx="80" cy="280" r="7"/>
+              <circle class="pulse delay" cx="200" cy="250" r="9"/>
+              <circle class="pulse delay-2" cx="280" cy="250" r="9"/>
+              <circle cx="400" cy="280" r="7"/>
+              <circle cx="240" cy="380" r="11"/>
+              <circle cx="170" cy="390" r="6"/>
+              <circle cx="310" cy="390" r="6"/>
+            </g>
+          </svg>
+          <div class="hud-card hud-a" data-hud-a></div>
+          <div class="hud-card hud-b" data-hud-b></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="services">
+      <div class="container">
+        <div class="section-head" data-home-services-head></div>
+        <div class="cards-4" data-home-services></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="process">
+      <div class="container">
+        <div class="section-head" data-home-process-head></div>
+        <ol class="pipeline" data-home-process></ol>
+      </div>
+    </section>
+
+    <section class="section" id="portfolio">
+      <div class="container">
+        <div class="section-head" data-home-work-head></div>
+        <div class="portfolio-grid" data-home-work></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="contact">
+      <div class="container contact-grid">
+        <div data-home-contact></div>
+        <form class="quote-form glass-card" name="quote-home" method="POST" action="/" data-netlify="true" data-netlify-honeypot="bot-field" data-quote-form>
+          <input type="hidden" name="form-name" value="quote-home" />
+          <p hidden>
+            <label>Don’t fill this out <input name="bot-field" /></label>
+          </p>
+          <label>
+            Name
+            <input type="text" name="name" placeholder="Alex Morgan" required />
+          </label>
+          <label>
+            Email
+            <input type="email" name="email" placeholder="alex@company.com" required />
+          </label>
+          <label>
+            Project Type
+            <select name="projectType" required>
+              <option value="" disabled selected>Select a type</option>
+              <option>Web Design &amp; UX</option>
+              <option>Custom Software</option>
+              <option>E-Commerce</option>
+              <option>SEO &amp; Performance</option>
+              <option>Other</option>
+            </select>
+          </label>
+          <label>
+            Message
+            <textarea name="message" rows="4" placeholder="Tell us about your product, timeline, and goals." required></textarea>
+          </label>
+          <button type="submit" class="btn btn-glow full">Get a Quote</button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="js/components.js"></script>
+  <script src="script.js?v=cms2"></script>
+  <script src="js/content.js?v=cms2"></script>
+  <script src="js/netlify-identity.js"></script>
+</body>
+</html>

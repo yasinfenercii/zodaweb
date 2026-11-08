@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio — Zodaweb</title>
+  <meta name="description" content="Explore featured Zodaweb work across web design, SaaS apps, e-commerce, and responsive products." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="portfolio">
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow" aria-hidden="true"></div>
+  <div id="site-header"></div>
+
+  <main>
+    <section class="page-banner">
+      <div class="container" data-banner></div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="filter-bar" role="toolbar" aria-label="Filter projects" data-filters></div>
+        <div class="portfolio-grid" data-portfolio-grid></div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head" data-testimonials-head></div>
+        <div class="testimonials" data-testimonials></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-banner glass-card" data-page-cta></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="js/components.js"></script>
+  <script src="script.js?v=cms1"></script>
+  <script src="js/content.js?v=cms2"></script>
+</body>
+</html>

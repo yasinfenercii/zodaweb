@@ -1,0 +1,8 @@
+{
+  "name": "zodaweb",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -l 4173",
+    "cms": "npx --yes decap-server"
+  }
+}

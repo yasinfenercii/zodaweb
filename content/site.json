@@ -1,0 +1,28 @@
+{
+  "brandName": "Zodaweb",
+  "tagline": "Web Design & Software",
+  "metaTitleSuffix": "Zodaweb",
+  "footerBlurb": "Next-gen web design and software for ambitious brands.",
+  "copyrightName": "Zodaweb",
+  "quoteLabel": "Get a Quote",
+  "email": "hello@zodaweb.com",
+  "phone": "+1 (555) 012-3456",
+  "phoneHref": "tel:+15550123456",
+  "location": "Istanbul / Remote Worldwide",
+  "whatsappNumber": "15551234567",
+  "whatsappMessage": "Hi Zodaweb, I'd like a quote for a new project.",
+  "whatsappLabel": "Chat on WhatsApp",
+  "nav": [
+    { "href": "index.html", "id": "home", "label": "Home" },
+    { "href": "services.html", "id": "services", "label": "Services" },
+    { "href": "portfolio.html", "id": "portfolio", "label": "Portfolio" },
+    { "href": "about.html", "id": "about", "label": "About" },
+    { "href": "contact.html", "id": "contact", "label": "Contact" }
+  ],
+  "social": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/" },
+    { "label": "GitHub", "url": "https://github.com/" },
+    { "label": "X / Twitter", "url": "https://x.com/" },
+    { "label": "Instagram", "url": "https://www.instagram.com/" }
+  ]
+}

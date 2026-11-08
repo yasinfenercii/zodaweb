@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact — Zodaweb</title>
+  <meta name="description" content="Request a quote from Zodaweb. Reach us by form, email, or WhatsApp for a quick estimate." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="contact">
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow" aria-hidden="true"></div>
+  <div id="site-header"></div>
+
+  <main>
+    <section class="page-banner">
+      <div class="container" data-banner></div>
+    </section>
+
+    <section class="section">
+      <div class="container contact-split">
+        <div data-contact-direct></div>
+
+        <form class="quote-form glass-card" name="quote-contact" method="POST" action="/" data-netlify="true" data-netlify-honeypot="bot-field" data-quote-form>
+          <input type="hidden" name="form-name" value="quote-contact" />
+          <p hidden>
+            <label>Don’t fill this out <input name="bot-field" /></label>
+          </p>
+          <label>
+            Full Name
+            <input type="text" name="fullName" placeholder="Alex Morgan" required />
+          </label>
+          <label>
+            Email Address
+            <input type="email" name="email" placeholder="alex@company.com" required />
+          </label>
+          <label>
+            Company Name
+            <input type="text" name="company" placeholder="Acme Inc." />
+          </label>
+          <fieldset class="quote-fieldset">
+            <legend class="form-legend">Services Needed</legend>
+            <div class="pill-group">
+              <label class="pill-check">
+                <input type="checkbox" name="services" value="web-design" />
+                <span>Web Design</span>
+              </label>
+              <label class="pill-check">
+                <input type="checkbox" name="services" value="web-app" />
+                <span>Web App</span>
+              </label>
+              <label class="pill-check">
+                <input type="checkbox" name="services" value="ecommerce" />
+                <span>E-Commerce</span>
+              </label>
+              <label class="pill-check">
+                <input type="checkbox" name="services" value="seo" />
+                <span>SEO/Maintenance</span>
+              </label>
+            </div>
+          </fieldset>
+          <label>
+            Budget Range
+            <select name="budget" required>
+              <option value="" disabled selected>Select a range</option>
+              <option>&lt; $1,000</option>
+              <option>$1,000 - $3,000</option>
+              <option>$3,000 - $5,000</option>
+              <option>$5,000+</option>
+            </select>
+          </label>
+          <label>
+            Project Details / Goals
+            <textarea name="message" rows="5" placeholder="Tell us about the product, timeline, and what success looks like." required></textarea>
+          </label>
+          <button type="submit" class="btn btn-glow full" data-form-submit>Send Message &amp; Get Quote</button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head" data-faq-head></div>
+        <div class="faq-list" data-faq></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="js/components.js"></script>
+  <script src="script.js?v=cms2"></script>
+  <script src="js/content.js?v=cms2"></script>
+</body>
+</html>

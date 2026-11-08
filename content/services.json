@@ -1,0 +1,100 @@
+{
+  "seoTitle": "Services — Zodaweb",
+  "seoDescription": "End-to-end digital solutions from Zodaweb: custom web development, UI/UX, e-commerce, and SEO.",
+  "banner": {
+    "eyebrow": "Services",
+    "title": "Our Core Expertise",
+    "lead": "End-to-end digital solutions crafted for modern businesses."
+  },
+  "items": [
+    {
+      "num": "01",
+      "title": "Custom Web Development",
+      "text": "High-performance custom web apps with clean architecture and API integrations built to scale with your operations.",
+      "features": [
+        "Custom dashboards, portals, and SaaS products",
+        "REST and GraphQL API integrations",
+        "Authentication, roles, and data security",
+        "Cloud-ready, maintainable codebases"
+      ],
+      "badges": ["React", "Next.js", "Node.js", "Tailwind CSS"],
+      "ctaLabel": "Request Service",
+      "ctaHref": "contact.html?service=web-app",
+      "asideTitle": "Best for",
+      "asideText": "Product teams that need a tailored application—not a template—with room to grow features, users, and data over time."
+    },
+    {
+      "num": "02",
+      "title": "UI/UX & Web Design",
+      "text": "Figma systems, interactive prototypes, and conversion-focused journeys that feel premium on every screen.",
+      "features": [
+        "Figma design systems and component libraries",
+        "Interactive prototypes for stakeholder review",
+        "User journey mapping and wireframing",
+        "Landing pages engineered for conversion"
+      ],
+      "badges": ["Figma", "Prototyping", "Design Systems", "Accessibility"],
+      "ctaLabel": "Request Service",
+      "ctaHref": "contact.html?service=web-design",
+      "asideTitle": "Best for",
+      "asideText": "Brands launching or refreshing a digital presence that must look sharp, load fast, and guide users to action."
+    },
+    {
+      "num": "03",
+      "title": "E-Commerce Solutions",
+      "text": "Shopify and custom stores with payment gateways, inventory workflows, and a checkout path built to sell.",
+      "features": [
+        "Shopify and custom storefronts",
+        "Payment gateway integration",
+        "Inventory and order management",
+        "Conversion, merchandising, and UX polish"
+      ],
+      "badges": ["Shopify", "Stripe", "Headless", "Analytics"],
+      "ctaLabel": "Request Service",
+      "ctaHref": "contact.html?service=ecommerce",
+      "asideTitle": "Best for",
+      "asideText": "Retail and D2C brands that need a store as fast and trustworthy as the products they sell."
+    },
+    {
+      "num": "04",
+      "title": "SEO & Growth Marketing",
+      "text": "Technical audits, on-page and off-page SEO, speed work, and analytics so visibility compounds after launch.",
+      "features": [
+        "On-page and off-page SEO programs",
+        "Technical site audits and Core Web Vitals",
+        "Speed and performance optimization",
+        "Google Analytics and conversion tracking"
+      ],
+      "badges": ["SEO", "Core Web Vitals", "GA4", "Content"],
+      "ctaLabel": "Request Service",
+      "ctaHref": "contact.html?service=seo",
+      "asideTitle": "Best for",
+      "asideText": "Teams who want organic growth, not just a pretty site—measured, technical, and ready for search."
+    }
+  ],
+  "stack": {
+    "eyebrow": "Stack",
+    "title": "Technologies We Ship With",
+    "subtitle": "A modern toolkit chosen for speed, reliability, and long-term maintainability.",
+    "items": [
+      "React",
+      "Node.js",
+      "Tailwind",
+      "Python",
+      "PostgreSQL",
+      "Vercel",
+      "Next.js",
+      "TypeScript",
+      "Shopify",
+      "Stripe",
+      "Figma",
+      "AWS"
+    ]
+  },
+  "cta": {
+    "title": "Have a unique project requirement?",
+    "text": "Tell us the outcome you need. We’ll map the stack, timeline, and quote.",
+    "label": "Open the contact form",
+    "href": "contact.html"
+  }
+}

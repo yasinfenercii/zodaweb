@@ -1,0 +1,80 @@
+{
+  "seoTitle": "Zodaweb — Next-Gen Web Design & Software",
+  "seoDescription": "Zodaweb builds high-performance websites, custom web applications, and scalable digital experiences designed to drive business growth.",
+  "hero": {
+    "eyebrow": "Web Design · Software · Growth",
+    "title": "Empowering Brands with Next-Gen Web Design & Software Solutions",
+    "lead": "We build high-performance websites, custom web applications, and scalable digital experiences designed to drive business growth.",
+    "primaryCta": { "label": "Start Your Project", "href": "contact.html" },
+    "secondaryCta": { "label": "View Our Work", "href": "portfolio.html" },
+    "stats": [
+      { "value": "120+", "label": "Projects shipped" },
+      { "value": "98%", "label": "Client retention" },
+      { "value": "4.9", "label": "Average rating" }
+    ],
+    "hudA": "Uptime 99.99%",
+    "hudB": "Lighthouse 98"
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Our Services",
+    "subtitle": "End-to-end digital products engineered for speed, conversion, and scale.",
+    "linkLabel": "Explore all services",
+    "linkHref": "services.html",
+    "items": [
+      {
+        "icon": "design",
+        "title": "Web Design & UX",
+        "text": "Modern, responsive, and conversion-focused landing pages & corporate sites."
+      },
+      {
+        "icon": "software",
+        "title": "Custom Software",
+        "text": "Scalable custom web applications tailored to your specific business needs."
+      },
+      {
+        "icon": "ecommerce",
+        "title": "E-Commerce",
+        "text": "Feature-rich online stores optimized for maximum sales and seamless UX."
+      },
+      {
+        "icon": "seo",
+        "title": "SEO & Performance",
+        "text": "Lightning-fast loading speeds and search engine optimization to boost visibility."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Our method",
+    "title": "How It Works",
+    "subtitle": "A transparent five-step pipeline from first conversation to launch day.",
+    "linkLabel": "See the full process",
+    "linkHref": "about.html",
+    "steps": [
+      { "num": "01", "title": "Discovery", "text": "Goals, audience, and technical scope aligned." },
+      { "num": "02", "title": "Design", "text": "Interfaces, flows, and brand systems crafted." },
+      { "num": "03", "title": "Development", "text": "Clean, scalable code built for performance." },
+      { "num": "04", "title": "Testing", "text": "QA, accessibility, and device coverage." },
+      { "num": "05", "title": "Launch", "text": "Go-live, monitoring, and growth support." }
+    ]
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "Featured Projects",
+    "subtitle": "Recent builds across SaaS, commerce, and brand platforms.",
+    "linkLabel": "View the portfolio",
+    "linkHref": "portfolio.html"
+  },
+  "contact": {
+    "eyebrow": "Let’s build",
+    "title": "Start Your Next Project",
+    "subtitle": "Tell us about your goals. We’ll reply with a clear plan, timeline, and quote.",
+    "contactPageLabel": "Open full contact page",
+    "contactPageHref": "contact.html",
+    "points": [
+      "Typical response under 24 hours",
+      "Fixed-scope quotes available",
+      "NDA-friendly discovery calls"
+    ]
+  }
+}

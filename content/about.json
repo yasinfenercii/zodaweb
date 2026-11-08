@@ -1,0 +1,67 @@
+{
+  "seoTitle": "About & Process — Zodaweb",
+  "seoDescription": "Learn who Zodaweb is and how we build high-impact web products from discovery to deployment.",
+  "banner": {
+    "eyebrow": "About",
+    "title": "Architects of Digital Excellence",
+    "lead": "Learn who we are and how we build high-impact web products."
+  },
+  "intro": {
+    "eyebrow": "Zodaweb",
+    "title": "A studio built for quality, speed, and modern aesthetics",
+    "paragraphs": [
+      "Zodaweb is a forward-thinking web agency for brands that refuse generic templates. We pair product thinking with meticulous UI, then ship software that stays fast, maintainable, and ready to grow.",
+      "From first workshop to launch day, we keep the process transparent: clear milestones, honest estimates, and interfaces that feel as advanced as the technology behind them."
+    ],
+    "asideTitle": "How we work",
+    "asideText": "Small senior teams. Direct communication. Design and engineering in the same room so nothing gets lost between Figma and production."
+  },
+  "stats": [
+    { "value": "50+", "label": "Projects Completed" },
+    { "value": "99%", "label": "Client Satisfaction" },
+    { "value": "100%", "label": "On-Time Delivery" },
+    { "value": "24/7", "label": "Tech Support" }
+  ],
+  "process": {
+    "eyebrow": "Methodology",
+    "title": "How We Build",
+    "subtitle": "A five-step pipeline from discovery through long-term care.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Discovery & Planning",
+        "text": "We map goals, audience, constraints, and success metrics. Scope, timeline, and technical approach are aligned before a single screen is designed."
+      },
+      {
+        "num": "02",
+        "title": "UI/UX Wireframing",
+        "text": "Flows become wireframes, then high-fidelity Figma systems. Stakeholders review interactive prototypes so decisions happen early, not after code."
+      },
+      {
+        "num": "03",
+        "title": "Clean Code Development",
+        "text": "We implement with modern stacks—React, Next.js, Node, and more—optimized for performance, accessibility, and future features."
+      },
+      {
+        "num": "04",
+        "title": "Quality Assurance & Testing",
+        "text": "Functional QA, device coverage, and accessibility checks. We hunt edge cases so launch day is calm, not chaotic."
+      },
+      {
+        "num": "05",
+        "title": "Deployment & Maintenance",
+        "text": "We ship, monitor, and stay on call. Updates, SEO, and support keep the product compounding after go-live."
+      }
+    ]
+  },
+  "values": {
+    "eyebrow": "Culture",
+    "title": "Core Values",
+    "items": [
+      { "title": "Innovation", "text": "We choose modern patterns that age well—never novelty for its own sake." },
+      { "title": "Transparency", "text": "Clear timelines, visible progress, and honest trade-offs at every milestone." },
+      { "title": "Speed", "text": "Tight loops from decision to deployment without sacrificing craft." },
+      { "title": "Client-First Mindset", "text": "Your outcomes define the work: growth, clarity, and a product people trust." }
+    ]
+  }
+}

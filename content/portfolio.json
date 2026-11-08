@@ -1,0 +1,243 @@
+{
+  "seoTitle": "Portfolio — Zodaweb",
+  "seoDescription": "Explore featured Zodaweb work across web design, SaaS apps, e-commerce, and responsive products.",
+  "banner": {
+    "eyebrow": "Portfolio",
+    "title": "Our Featured Work",
+    "lead": "Explore how we’ve helped clients transform their digital presence."
+  },
+  "filters": [
+    {
+      "id": "all",
+      "label": "All"
+    },
+    {
+      "id": "web-design",
+      "label": "Web Design"
+    },
+    {
+      "id": "saas",
+      "label": "SaaS Apps"
+    },
+    {
+      "id": "ecommerce",
+      "label": "E-Commerce"
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile-Responsive"
+    }
+  ],
+  "items": [
+    {
+      "mockup": "photo",
+      "summary": "A tattoo studio site built to convert browsers into booked consults—portfolio-led, style-first, and easy to inquire.",
+      "homeSummary": "A tattoo studio site built to convert browsers into booked consults.",
+      "preview": "Noir Ink Studio is marketed as a destination, not a generic shop. The homepage opens with signature pieces so visitors instantly self-qualify by style—blackwork, fine line, realism—before they ever read a word. Artist profiles and healed-work galleries do the trust-building; hygiene, studio story, and reviews sit close to the booking path so hesitation drops. We designed Instagram-ready grids for social traffic, a prominent “Book a consult” CTA (plus WhatsApp for impulse leads), and local SEO around tattoo styles and the city. Flash vs custom inquiry flows keep the calendar full without drowning the artists in mismatched requests. The site’s job is simple: turn lookbooks into appointments.",
+      "featured": true,
+      "imageAlt": "Noir Ink Studio tattoo website",
+      "order": 1,
+      "title": "Noir Ink Studio",
+      "tag": "Web Design",
+      "image": "/img/dovmesite.jpg",
+      "tools": [
+        "Figma",
+        "Next.js",
+        "Tailwind"
+      ],
+      "categories": [
+        "web-design",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "photo",
+      "summary": "Luxury tattoo studio UI/UX — artist portfolios, dark gold aesthetic, and a conversion-focused booking flow.",
+      "homeSummary": "Luxury tattoo studio UI/UX with artist portfolios and a conversion-focused booking flow.",
+      "preview": "**Project:** The Golden Needle — Tattoo Studio UI/UX & Web Design\n\n**About the Project:** This project is a modern web design concept crafted to bring the artistry, prestige, and unique identity of a professional tattoo studio into the digital space. It was specifically engineered to address two major pain points of tattoo businesses: streamlining the booking/consultation process and showcasing artist portfolios in an elevated, organized layout.\n\n**Key Design & UX Highlights:**\n\n- **Dark Mode Aesthetic:** Designed with deep blacks, dark charcoal backgrounds, and refined gold accents to establish a luxury, high-end, and artistic vibe.\n- **Custom Consultation & Booking System:** An intuitive form module that allows clients to submit tattoo concepts, placement preferences, size details, and reference images directly, eliminating endless back-and-forth messages.\n- **Artist & Style Showcase:** A clean grid layout displaying diverse tattoo styles (geometric, traditional, fine-line) alongside individual artist profiles and bios.\n- **Conversion & Local SEO Focused:** Optimized user flow designed to turn local search visitors (“tattoo studio near me”) into booked appointments.",
+      "featured": true,
+      "imageAlt": "The Golden Needle tattoo studio website",
+      "order": 2,
+      "title": "The Golden Needle",
+      "tag": "Web Design",
+      "image": "/img/dovmesite2.jpg",
+      "tools": [
+        "Figma",
+        "Next.js",
+        "Tailwind"
+      ],
+      "categories": [
+        "web-design",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "photo",
+      "summary": "Eco-conscious cleaning site with instant quotes, service cards, and a conversion-first booking flow.",
+      "homeSummary": "Eco-conscious cleaning site with instant quotes and a conversion-first booking flow.",
+      "preview": "**Project:** Eco-Clean — Upholstery & Carpet Care UI/UX & Web Design\n\n**About the Project:** This project is a modern, eco-conscious web design concept tailored for professional cleaning, upholstery, and carpet care services. Designed with a focus on natural aesthetics and effortless user navigation, it effectively communicates high-quality service, environmental responsibility, and quick online booking to boost customer conversions.\n\n**Key Design & UX Highlights:**\n\n- **Eco-Friendly Aesthetic:** Uses a soothing palette of deep forest greens, warm earth tones, and clean beige backgrounds to emphasize organic, non-toxic, and eco-friendly cleaning solutions.\n- **Instant Free Quote & Service Request:** Features a streamlined quote request form allowing customers to select specific services (e.g., stain removal, sofa or rug cleaning) and schedule dates with ease.\n- **Service Category Layout:** Clear visual cards highlighting key offerings like Upholstery Cleaning, Carpet Cleaning, Deep Stain Removal, and Hypoallergenic Air Quality Care.\n- **Trust & Conversion Driven:** Strategically placed client testimonials, service guarantees, and prominent Call-to-Action (CTA) buttons (“Get A Free Eco-Quote Now”) designed to build immediate trust.",
+      "featured": true,
+      "imageAlt": "Cleaning and upholstery website",
+      "order": 3,
+      "title": "Cleaning & Upholstery Site",
+      "tag": "Web Design",
+      "image": "/img/temizlik.jpg",
+      "tools": [
+        "Figma",
+        "Vue.js",
+        "Bootstrap"
+      ],
+      "categories": [
+        "web-design",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "photo",
+      "summary": "High-converting auto repair site with service cards, online booking, and trust-first UX.",
+      "homeSummary": "High-converting auto repair site with service cards and online booking.",
+      "preview": "**Project:** PAC Auto Care — Auto Repair & Service UI/UX & Web Design\n\n**About the Project:** This project is a modern, high-converting web design concept tailored for professional auto repair shops and mechanics. Designed with a strong focus on trust, efficiency, and clarity, it streamlines the online service scheduling process while showcasing core repair capabilities to convert local drive-by and search traffic into booked appointments.\n\n**Key Design & UX Highlights:**\n\n- **Professional & Trustworthy Aesthetic:** Features a crisp, high-contrast palette of deep navy blue, warm orange CTA accents, and clean white backgrounds to reflect precision, safety, and reliability.\n- **High-Impact Hero Section:** Displays strong value propositions (“Expert Mechanics. Quality Service. Fast Turnaround.”) alongside a prominent “Schedule Your Service” action button.\n- **Core Service Cards:** Organized grid layout showcasing essential automotive offerings like Maintenance, Diagnostics, and General Repairs with clean icons and quick-view links.\n- **Online Booking & Consultation Form:** Dedicated service request form allowing customers to select vehicle make/model, preferred service, and appointment time in just a few clicks.\n- **Trust Elements & Social Proof:** Integrated “Why Choose Us” features (Certified Technicians, Fair Pricing, Quick Service) alongside verified customer reviews to build immediate credibility.\n\n**Tools Used:** Figma / Photoshop, Bootstrap / React",
+      "featured": true,
+      "imageAlt": "PAC Auto Care auto repair website",
+      "order": 4,
+      "title": "PAC Auto Care",
+      "tag": "Web Design",
+      "image": "/img/ototamir.jpg",
+      "tools": [
+        "Figma",
+        "Photoshop",
+        "Bootstrap",
+        "React"
+      ],
+      "categories": [
+        "web-design",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "health",
+      "summary": "Patient-facing portal with secure records and appointment flows.",
+      "homeSummary": "Patient-facing portal with secure records.",
+      "preview": "",
+      "featured": true,
+      "imageAlt": "",
+      "order": 5,
+      "title": "PulseCare Portal",
+      "tag": "SaaS Platform",
+      "image": "",
+      "tools": [
+        "Next.js",
+        "Python",
+        "PostgreSQL"
+      ],
+      "categories": [
+        "saas",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "fin",
+      "summary": "Onboarding flows built for trust, KYC steps, and payment speed.",
+      "homeSummary": "Onboarding flows built for trust and speed.",
+      "preview": "",
+      "featured": true,
+      "imageAlt": "",
+      "order": 6,
+      "title": "Vertex Pay",
+      "tag": "Fintech",
+      "image": "",
+      "tools": [
+        "Next.js",
+        "Stripe",
+        "Tailwind"
+      ],
+      "categories": [
+        "web-design",
+        "saas"
+      ]
+    },
+    {
+      "mockup": "market",
+      "summary": "Marketplace UX with vendor catalogs and mobile-first merchandising.",
+      "homeSummary": "Marketplace UX with vendor catalogs and mobile-first merchandising.",
+      "preview": "",
+      "featured": false,
+      "imageAlt": "",
+      "order": 7,
+      "title": "Northwind Market",
+      "tag": "E-Commerce",
+      "image": "/img/temizlik.jpg",
+      "tools": [
+        "React",
+        "Stripe",
+        "Node.js"
+      ],
+      "categories": [
+        "ecommerce",
+        "mobile"
+      ]
+    },
+    {
+      "mockup": "mobile",
+      "summary": "Responsive studio site with motion, case galleries, and inquiry flows.",
+      "homeSummary": "Responsive studio site with motion, case galleries, and inquiry flows.",
+      "preview": "",
+      "featured": false,
+      "imageAlt": "",
+      "order": 8,
+      "title": "Helio Studio",
+      "tag": "Brand Site",
+      "image": "/img/zodaweblogo.jpg",
+      "tools": [
+        "Figma",
+        "Next.js",
+        "Vercel"
+      ],
+      "categories": [
+        "web-design",
+        "mobile"
+      ]
+    },
+    {
+      "featured": true,
+      "order": 1,
+      "title": "Deneme Kartı",
+      "tag": "Web Design",
+      "preview": "nasıl görünüyor",
+      "summary": "Responsive studio site with motion, case galleries, and inquiry flows.",
+      "homeSummary": "Responsive studio site with motion, case galleries, and inquiry flows.",
+      "mockup": "mobile"
+    }
+  ],
+  "testimonials": {
+    "eyebrow": "Social proof",
+    "title": "What Clients Say",
+    "subtitle": "Partnerships measured in launches, retention, and results.",
+    "items": [
+      {
+        "quote": "Zodaweb rebuilt our funnel in six weeks. Conversion jumped and the site finally feels as sharp as the product.",
+        "initials": "MR",
+        "name": "Maya Rios",
+        "role": "CMO, The Golden Needle"
+      },
+      {
+        "quote": "They treated our SaaS like a product, not a brochure. The dashboard shipped on time and our team actually uses it.",
+        "initials": "DK",
+        "name": "Daniel Kwon",
+        "role": "Founder, PAC Auto Care"
+      },
+      {
+        "quote": "Clear process, no surprises, and the performance work paid off in search. We still work with them post-launch.",
+        "initials": "AS",
+        "name": "Amelia Shore",
+        "role": "Director, Eco-Clean"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to be our next success story? Let’s Talk.",
+    "text": "Share your goals and we’ll return a scoped plan, timeline, and quote.",
+    "label": "Let’s Talk",
+    "href": "contact.html"
+  }
+}
